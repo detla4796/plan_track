@@ -1,0 +1,71 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+
+# Android related
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/**/build/
+android/**/captures/
+android/.idea/
+*.iml
+
+# iOS/Xcode related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/ephemeral/
+ios/Flutter/GeneratedPluginRegistrant.*
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/build/
+ios/.symlinks/
+ios/.flutter-plugins
+ios/.flutter-plugins-dependencies
+ios/.generated/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Pods/
+macos/build/
+macos/Runner.xcworkspace/
+macos/.symlinks/
+macos/.flutter-plugins
+macos/.flutter-plugins-dependencies
+
+# Linux
+linux/flutter/ephemeral/
+linux/build/
+
+# Windows
+windows/flutter/ephemeral/
+windows/build/
+
+# Web
+web/generated/
+
+# VS Code
+.vscode/
+.history/
+
+# Others
+*.log
+*.tmp
+*.swp
+*.lock
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Sensitive files
+.env
